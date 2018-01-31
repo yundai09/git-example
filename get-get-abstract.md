@@ -15,3 +15,4 @@ We will introduce Git on the command line and the Github web interface.
 
 > hosted by [University of Idaho Library](http://www.lib.uidaho.edu/) 2018.
 
+So far so good!
