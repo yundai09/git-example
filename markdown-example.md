@@ -8,6 +8,7 @@ Check the demo below, then practice Markdown in your browser using [Dillinger](h
 This is an edit.
 
 ## Heading Two
+This is another edit.
 
 ### Heading Three, etc.
 
